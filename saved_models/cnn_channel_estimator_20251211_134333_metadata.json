@@ -1,0 +1,22 @@
+{
+    "model_name": "cnn_channel_estimator_20251211_134333",
+    "timestamp": "20251211_134333",
+    "architecture": "CNN_ChannelEstimator",
+    "epochs": 50,
+    "final_loss": 1.1011703667551278,
+    "best_loss": 1.1011119023889304,
+    "num_samples": 1000,
+    "time_length": 80,
+    "input_shape": [
+        79999,
+        2
+    ],
+    "output_shape": [
+        79999,
+        2
+    ],
+    "csv_source": "C:\\Users\\Asus\\AY2025-26_FYP\\FYP25-26\\ofdm_signal_data\\ofdm_signals_1000samples_20251210_214733.csv",
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "batch_size": 32
+}
